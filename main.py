@@ -123,7 +123,7 @@ try:
             print("Input Salah ")
 except KeyboardInterrupt:
     print("\nCTRL-C Di Aktifkan")
-    time.sleep(0.5)
+    time.sleep(1)
     sys.exit("Exitng")
     
 
